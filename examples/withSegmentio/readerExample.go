@@ -1,9 +1,9 @@
 package withSegmentio
 
 import (
+	collector "github.com/Sabyradinov/go-prometheus-kafka"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/segmentio/kafka-go"
-	collector "go-prometheus-kafka"
 )
 
 func main() {

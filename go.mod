@@ -1,4 +1,4 @@
-module go-prometheus-kafka
+module github.com/Sabyradinov/go-prometheus-kafka
 
 go 1.19
 
